@@ -1,0 +1,60 @@
+---
+name: Mikołaj
+surname: Wasak
+phone: +1 111 111 111
+profilepic: zdj.jpg
+email: "xxxxx@gmail.com"
+github: MikolajWasak
+linkedin: mikolaj-wasak-b3023b231
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::twentyseconds
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+\vspace{50pt}
+# O mnie
+##  Analityk danych z certyfikatem Google Data Analytics Professional Certificate, z zaawansowanym poziomem opanowania narzędzi do analizy danych takich jak: SQL, R, Sheets, Excel, Tableau, poszukujący możliwości rozwoju zawodowego.
+\vspace{10pt}
+# Wykształcenie
+\vspace{10pt}
+## 2017-2021, Studia Inżynierskie, Ekoenergetyka, Uniwersytet Przyrodniczy w Lublinie  
+\vspace{10pt}
+## 2021-2022, Studia Magisterskie, Inżynieria środowiska , Uniwersytet Przyrodniczy w Lublinie
+\vspace{10pt}
+# Kursy
+\vspace{10pt}
+## 2022, Google Data Analytics, Google  
+
+\vspace{10pt}
+## 2022, Podstawy marketingu internetowego, Google Internetowe Rewolucje
+\vspace{10pt}
+
+# Umiejętności twarde
+\vspace{10pt}
+## * SQL
+## * R
+## * Excel
+## * Google Sheets
+## * Tableau
+## * Google Analytics
+## * Analiza Danych
+ \vspace{10pt}
+
+# Umiejętności miękkie
+\vspace{10pt}
+## * Sprawna komunikacja
+## * Praca w zespole
+## * Przywiązanie do szczegółów
+## * Rozwiązywanie problemów
+
+ 
+\vspace{10pt}
+
+# Języki  
+\vspace{10pt}
+
+## * Angielski - zaawansowany
